@@ -1,0 +1,112 @@
+[data-aos="new-animation"] {
+    transform: scale(2);
+    filter: blur(4px);
+    opacity: 0;
+}
+
+[data-aos="new-animation"].aos-animate {
+    transform: scale(1);
+    filter: blur(0px);
+    opacity: 1;
+}
+
+
+
+
+[data-aos="new-animation-2"] {
+    transform: translateY(-45px);
+    animation-timing-function: ease-in;
+    opacity: 1;
+}
+
+[data-aos="new-animation-2"].aos-animate {
+    transform: translateY(-20px);
+    animation-timing-function: ease-out;
+    opacity: 1;
+}
+
+
+[data-aos="new-animation-3"] {
+    transform: scale(0) translateY(0);
+    transform-origin: 50% 84%;
+
+
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+}
+
+[data-aos="new-animation-3"].aos-animate {
+    transform: scale(1) translateY(25px);
+    transform-origin: bottom;
+
+    box-shadow: 0 48px 48px -32px rgb(23 16 159 / 20%), 0 96px 96px -64px rgb(3 2 20 / 60%);
+}
+
+
+[data-aos="new-animation-4"] {
+    transform: scale(0);
+    opacity: 1;
+}
+
+[data-aos="new-animation-4"].aos-animate {
+    transform: scale(1);
+    opacity: 1;
+}
+
+
+[data-aos="new-animation-5"] {
+    transform: translateY(-50px);
+    animation-timing-function: ease-in;
+    opacity: 0;
+}
+
+[data-aos="new-animation-5"].aos-animate {
+    transform: translateY(0);
+    animation-timing-function: ease-out;
+    opacity: 1;
+}
+
+
+[data-aos="new-animation-6"] {
+    transform: translateX(-1000px);
+    opacity: 0;
+}
+
+[data-aos="new-animation-6"].aos-animate {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+
+[data-aos="new-animation-7"] {
+    transform: translateY(-45px);
+    animation-timing-function: ease-in;
+    transition-duration: 300ms !important;
+    opacity: 1;
+}
+
+[data-aos="new-animation-7"].aos-animate {
+    transform: translateY(0px);
+    animation-timing-function: ease-out;
+    opacity: 1;
+}
+
+
+
+
+[data-aos="new-animation-8"] {
+    transform: scale3d(1, 1, 1);
+}
+
+[data-aos="new-animation-8"].aos-animate {
+    transform: scale3d(1, 1, 1);
+}
+
+
+[data-aos="new-animation-9"] {
+    transform: translateX(-1000px);
+}
+
+[data-aos="new-animation-9"].aos-animate {
+    transform: translateX(0);
+}

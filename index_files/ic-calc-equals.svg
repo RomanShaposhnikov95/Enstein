@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="6px" viewBox="0 0 12 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Sadaļas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="01.-Sākumlapa-v4" transform="translate(-1070.000000, -2377.000000)" fill="#7C92A6">
+            <g id="CTA-+-Calc-+-CTA" transform="translate(0.000000, 1605.000000)">
+                <g id="Calculator" transform="translate(215.000000, 560.000000)">
+                    <g transform="translate(600.000000, 0.000000)" id="Blocks">
+                        <g transform="translate(40.000000, 188.000000)">
+                            <g id="Head" transform="translate(20.000000, 17.000000)">
+                                <g id="Content" transform="translate(34.000000, 0.000000)">
+                                    <path d="M172.5,12 C172.776142,12 173,12.2238576 173,12.5 C173,12.7761424 172.776142,13 172.5,13 L161.5,13 C161.223858,13 161,12.7761424 161,12.5 C161,12.2238576 161.223858,12 161.5,12 L172.5,12 Z M172.5,7 C172.776142,7 173,7.22385763 173,7.5 C173,7.77614237 172.776142,8 172.5,8 L161.5,8 C161.223858,8 161,7.77614237 161,7.5 C161,7.22385763 161.223858,7 161.5,7 L172.5,7 Z" id="ic-calc-element-1"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
